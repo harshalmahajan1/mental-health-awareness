@@ -18,7 +18,7 @@ The Mental Health Awareness Website is a responsive platform dedicated to promot
 
 🛠 Tech Stack
 Layer	Technology
-Frontend	HTML, CSS, JavaScript (or React if used)
+Frontend	HTML, CSS, JavaScript
 Backend — Flask
 Version Control	Git & GitHub
 
